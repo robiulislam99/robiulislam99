@@ -28,9 +28,6 @@
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, YOLOv8, Faster R-CNN
 - **Other:** Project Management, Complex Problem Solving
 
-#### **DevOps & Cloud:**
-- Terraform (AWS ECS, S3, CloudFront, RDS)
-- Docker & CI/CD
 
 #### **Competitive Programming:**
 - Codeforces | LeetCode | CodeChef | AtCoder
