@@ -1,13 +1,13 @@
 ### Hi there, I'm **Md Robiul Islam** 👋
 
-🚀 **Final Year Computer Science & Engineering Student** | Backend Developer | AI Enthusiast
+🚀 **Fresh Graduate in Computer Science & Engineering** | ASP.NET | AI Enthusiast
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Final year **Computer Science & Engineering** student at KUET (Graduating in 2025).
-- 💡 Passionate about **Backend Development, AI, and Problem Solving**.
-- 🔍 Currently working on **Traffic Sign Recognition in Adverse Conditions** using **Computer Vision & Deep Learning (YOLOv8, Faster R-CNN)**.
+- 🎓 Fresh Graduate in **Computer Science & Engineering** from KUET (2025).
+- 💡 Passionate about ML, Data Science, AI, ASP.NET, and Problem Solving..
+- 🔍 Currently working on **Traffic Sign Recognition in Adverse Conditions** using **Computer Vision & Deep Learning (YOLOv11 & YOLOv12, Faster R-CNN)**.
 - 🏆 Solved **400+ problems** on various online judges & participated in **IKPC (Intra KUET Programming Contest) twice**.
 - 🏗️ Developing a **School Management System in C++** as a console-based project.
 - 💻 Former **AI Chatbot Trainer** at **CognitoFlow LLC**.
@@ -21,10 +21,10 @@
 - C++, C, Python, Java, SQL
 
 #### **Technologies & Frameworks:**
-- **Backend:** Node.js (Express.js), PHP, ASP.NET
+- **Backend:** Node.js (Express.js), ASP.NET
 - **Frontend:** React.js, HTML5, CSS, JavaScript
 - **Mobile App Development:** Android Studio (Java)
-- **Database:** SQL, MySQL, PostgreSQL
+- **Database:** SQL, MySQL
 - **AI & ML:** TensorFlow, PyTorch, OpenCV, YOLOv8, Faster R-CNN
 - **Other:** Project Management, Complex Problem Solving
 
