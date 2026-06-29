@@ -97,7 +97,7 @@ Production-style e-commerce platform built with **Next.js 15 App Router**, featu
 
 ---
 
-* 🔬 Research interests include **Computer Vision**, **Medical AI**, **Explainable AI (XAI)**, and **Multimodal Deep Learning**. Currently co-authoring two papers under review.
+## * 🔬 Research interests include **Computer Vision**, **Medical AI**, **Explainable AI (XAI)**, and **Multimodal Deep Learning**. Currently co-authoring two papers under review.
 ****
 
 ## 📫 Connect With Me
