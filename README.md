@@ -1,17 +1,18 @@
 # Hi there, I'm **Md Robiul Islam** 👋
 
-🚀 **Software Engineer** | Python • Django • Go • Next.js • Test Automation • Web Scraping • AI
+🚀 **Software Engineer Intern | Data Engineering • Backend • Python • Go • Next.js**
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Software Engineer with experience building scalable backend systems, enterprise automation frameworks, and data-driven applications.
-* 🎓 B.Sc. in **Computer Science & Engineering** from **KUET (2025)**.
-* 🐍 Passionate about **Python, Django, Go, Test Automation, Web Scraping, AI, and Backend Engineering**.
-* 🤖 Building production-ready applications following **Clean Architecture, SOLID principles, OOP, and CI/CD best practices**.
-* 🏆 Solved **500+ programming problems** across multiple online judges and participated in **IKPC (Intra KUET Programming Contest)** twice.
-* 💻 Former **AI Chatbot Trainer** at **CognitoFlow LLC**.
+* 💼 **Software Engineer Intern at W3 Engineers Ltd.**, working with modern software engineering and data engineering technologies.
+* 🎓 B.Sc. in **Computer Science & Engineering** from **Khulna University of Engineering and Technology (KUET), 2025**.
+* 🐍 Interested in **Python, Django, Go, Data Engineering, Backend Engineering, Automation, and Modern Web Technologies**.
+* ⚙️ Hands-on experience building **Dockerized ETL pipelines** using PySpark, Apache Iceberg, Elasticsearch, DynamoDB, and Qdrant.
+* 🧪 Experienced with **Playwright, Pytest, Scrapy, Ruff, SonarQube, and CI/CD**.
+* 🏆 Solved **500+ programming problems** across online judges including Codeforces and LeetCode.
+* 🧠 Research background in **Computer Vision**, with a thesis focused on traffic sign recognition under adverse conditions.
 
 ---
 
@@ -19,93 +20,161 @@
 
 ### Languages
 
-Python • Go • Java • JavaScript • TypeScript • SQL • C++
+Python • Go • Java • C++ • C • SQL
 
-### Backend
+### Backend & Frameworks
 
-Django • Django REST Framework • GeoDjango • Go (Beego) • ASP.NET • Spring Boot
+Django • Django REST Framework • Go (Beego) • Next.js • React
 
 ### Frontend
 
-Next.js • React • HTML5 • CSS3 • Tailwind CSS • JavaScript
+Next.js • React • TypeScript • Tailwind CSS • JavaScript • HTML • CSS
 
-### Databases
+### Databases & Storage
 
-PostgreSQL • PostGIS • pgvector • MySQL • SQLite
+PostgreSQL • PostGIS • MySQL • SQLite • Apache Iceberg • DynamoDB • Qdrant
 
-### Automation & Data Engineering
+### Data Engineering
 
-Playwright • Pytest • Scrapy • Requests • Docker • GitHub Actions • Scrapyd
+PySpark • Apache Iceberg • Elasticsearch • Kibana • ETL Pipelines • Data Processing • Semantic Search
 
-### AI & Machine Learning
+### Testing & Automation
 
-PyTorch • TensorFlow • OpenCV • Sentence Transformers • Computer Vision
+Playwright • Pytest • Scrapy • Vitest
 
-### DevOps & Tools
+### DevOps & Code Quality
 
-Git • Docker • Docker Compose • Linux • CI/CD
+Docker • Docker Compose • Git • GitHub Actions • Ruff • SonarQube • CI/CD
+
+### Machine Learning & Research
+
+YOLO • Computer Vision • OpenCV • Data Augmentation • Object Detection
 
 ---
 
-## 🏆 Competitive Programming
+## 💼 Experience
 
-* 🔹 Codeforces: https://codeforces.com/profile/RoBiul01
-* 🔹 LeetCode: https://leetcode.com/u/RoBiul_10/
-* 🔹 HackerRank: https://www.hackerrank.com/profile/islamrobiul5444
+### Software Engineer Intern — W3 Engineers Ltd.
+
+**May 2026 – Present**
+
+* Explored modern software engineering technologies including **Python, Django, Next.js, and Docker**.
+* Worked with code-quality and engineering practices using **Ruff, SonarQube, and CI/CD**.
+* Contributed to a local data engineering pipeline using **PySpark, Apache Iceberg, Elasticsearch, DynamoDB, and Qdrant**.
+* Developed and maintained **containerized data pipelines** for scalable data processing.
+* Implemented automated data exports, image ranking and labeling, and data-quality workflows using Docker-based infrastructure.
+
+---
+
+## 🔬 Thesis
+
+### Traffic Sign Recognition in Adverse Conditions
+
+Developed a robust traffic sign recognition system designed to handle challenging real-world conditions including:
+
+* 🌧️ Rain
+* 🌫️ Fog
+* 🌀 Motion blur
+* 🌙 Low-light conditions
+* 🚧 Occlusion
+
+The work involved developing a custom dataset annotation pipeline and applying augmentation techniques to improve object-detection performance under adverse environmental conditions.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏡 [GeoDjango Property Management System](https://github.com/robiulislam99/GeoDjango-Property-MS_Md-Robiul-Islam)
+### 🏗️ Booking Lake — Local Data Pipeline
 
-Scalable vacation rental platform featuring **GeoDjango**, **PostGIS**, and **pgvector** for spatial and semantic property search.
+**Tech:** PySpark • Apache Iceberg • Elasticsearch • DynamoDB • Qdrant • Docker • Ruff • SonarQube • CI/CD
 
-**Tech:** Django • GeoDjango • PostgreSQL • PostGIS • pgvector • Docker
+Built a Dockerized ETL and data-processing pipeline for Booking.com data.
+
+**Highlights:**
+
+* ⚡ Processed data using **PySpark** and stored structured datasets with **Apache Iceberg**.
+* 🔎 Integrated **Elasticsearch** for search and analytics.
+* 🗄️ Used **DynamoDB** for data export and storage workflows.
+* 🧠 Integrated **Qdrant** for semantic similarity search.
+* 🖼️ Implemented automated image ranking and labeling workflows.
+* 🐳 Containerized the complete pipeline using **Docker**.
+* ✅ Integrated **Ruff, SonarQube, and CI/CD** for code quality and automated deployment.
 
 ---
 
-### 🌍 [TravelSphere](https://github.com/robiulislam99/TravelSphere)
+### 🛒 KenaKata — E-Commerce Storefront
 
-Travel discovery platform built with **Go** and **Beego**, allowing users to explore countries, attractions, weather information, and manage personal wishlists.
+**Tech:** Next.js 15 • TypeScript • Tailwind CSS • Zustand • Zod • Vitest
+
+Production-style e-commerce platform built with **Next.js 15 App Router**.
+
+**Highlights:**
+
+* ⚡ Implemented **SSR, ISR, and SSG** for optimized application performance.
+* 🛍️ Built product browsing, shopping cart, and checkout functionality.
+* 🔐 Implemented authentication and **role-based route protection**.
+* 👨‍💼 Developed an administrative dashboard.
+* 📦 Used **Zustand** for state management.
+* ✅ Used **Zod** for form/data validation.
+* 🧪 Used **Vitest** for testing and maintaining code quality.
+
+---
+
+### 🌍 TravelSphere
 
 **Tech:** Go • Beego • HTML • CSS • JavaScript
 
+Travel discovery web application built with **Go and Beego**.
 
-### 📚 [Enterprise UI Automation Framework – Books to Scrape](https://github.com/robiulislam99/Books-Automation_Md_Robiul_Islam)
+**Highlights:**
 
-Production-ready UI automation framework built with **Playwright** and **Pytest** using Page Object Model (POM), SOLID principles, Allure & HTML reporting, randomized testing, HTTP link validation, and GitHub Actions CI/CD.
-
-**Tech:** Python • Playwright • Pytest • Allure • GitHub Actions
-
----
-
-### 🕷️ [Books Scraper – Enterprise Web Scraping Pipeline](https://github.com/robiulislam99/Books-Scraper_Md_Robiul_Islam)
-
-Production-ready **Scrapy** application that dynamically discovers categories, randomly samples books, exports data to JSON/CSV/XML, stores records in SQLite, includes Docker support, Scrapyd deployment, and unit-tested pipelines.
-
-**Tech:** Python • Scrapy • SQLite • Docker • Scrapyd
-
+* 🌎 Country and attraction exploration.
+* 🌤️ Integrated external weather APIs.
+* ❤️ Personalized wishlist management.
+* 🔌 Developed RESTful APIs.
+* 🔐 Implemented session-based authentication.
+* ⚡ Added AJAX-powered UI updates.
+* 🏗️ Applied modular MVC architecture.
+* 🧵 Implemented thread-safe in-memory data storage.
+* 🧪 Achieved **90%+ controller test coverage** with comprehensive unit testing.
 
 ---
 
-### 🛒 [KenaKata — Modern E-Commerce Storefront](https://github.com/robiulislam99/kenakata-online-store-nextJs)
+## 🏆 Competitive Programming
 
-Production-style e-commerce platform built with **Next.js 15 App Router**, featuring authentication, role-based authorization, shopping cart, checkout flow, SSR, ISR, SSG, and an admin dashboard.
+Solved **500+ programming problems** across multiple online judges.
 
-**Tech:** Next.js • TypeScript • Tailwind CSS
+* 🔹 Codeforces — RoBiul01
+* 🔹 LeetCode — RoBiul_10
+* 🔹 HackerRank — islamrobiul5444
+
+Participated in the **IKPC (Intra KUET Programming Contest)**.
 
 ---
 
-## * 🔬 Research interests include **Computer Vision**, **Medical AI**, **Explainable AI (XAI)**, and **Multimodal Deep Learning**. Currently co-authoring two papers under review.
-****
+## 🎓 Education
+
+**B.Sc. in Engineering — Computer Science & Engineering**
+Khulna University of Engineering and Technology (KUET), Khulna
+**2025**
+
+---
+
+## 🏅 Achievements & Activities
+
+* 🏆 Solved **500+ programming problems** across online judges.
+* 💻 Participated in **IKPC (Intra KUET Programming Contest)**.
+* 🎪 Executive — **3rd KUET CSE National Fest (BitFest 2025)**.
+* ⚽ Sports Secretary — **CSE Association, KUET**.
+
+---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/md-robiul-islam-a926aa206/
-* 🌐 GitHub: https://github.com/robiulislam99
-* 📧 Email: [islamrobiul5444@gmail.com](mailto:islamrobiul5444@gmail.com)
+* 💼 LinkedIn — Md Robiul Islam
+* 🌐 GitHub — robiulislam99
+* 📧 Email — [islamrobiul5444@gmail.com](mailto:islamrobiul5444@gmail.com)
 
 ---
 
-⭐ I enjoy building clean, scalable software, automating workflows, and solving challenging engineering problems. Always open to collaborating on exciting backend, automation, AI, and open-source projects.
+⭐ I enjoy building **scalable data pipelines, backend systems, automation workflows, and modern web applications**. I'm particularly interested in solving engineering problems through clean code, data-driven systems, and practical software development.
