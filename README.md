@@ -1,12 +1,12 @@
 # Hi there, I'm **Md Robiul Islam** 👋
 
-🚀 **Software Engineer Intern | Data Engineering • Backend • Python • Go • Next.js**
+🚀 **Software Engineer | Data Engineering • Backend • Python • Go • Next.js**
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 **Software Engineer Intern at W3 Engineers Ltd.**, working with modern software engineering and data engineering technologies.
+* 💼 **Software Engineer**, working with modern software engineering and data engineering technologies.
 * 🎓 B.Sc. in **Computer Science & Engineering** from **Khulna University of Engineering and Technology (KUET), 2025**.
 * 🐍 Interested in **Python, Django, Go, Data Engineering, Backend Engineering, Automation, and Modern Web Technologies**.
 * ⚙️ Hands-on experience building **Dockerized ETL pipelines** using PySpark, Apache Iceberg, Elasticsearch, DynamoDB, and Qdrant.
