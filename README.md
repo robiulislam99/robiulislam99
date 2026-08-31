@@ -52,20 +52,6 @@ YOLO • Computer Vision • OpenCV • Data Augmentation • Object Detection
 
 ---
 
-## 💼 Experience
-
-### Software Engineer Intern — W3 Engineers Ltd.
-
-**May 2026 – Present**
-
-* Explored modern software engineering technologies including **Python, Django, Next.js, and Docker**.
-* Worked with code-quality and engineering practices using **Ruff, SonarQube, and CI/CD**.
-* Contributed to a local data engineering pipeline using **PySpark, Apache Iceberg, Elasticsearch, DynamoDB, and Qdrant**.
-* Developed and maintained **containerized data pipelines** for scalable data processing.
-* Implemented automated data exports, image ranking and labeling, and data-quality workflows using Docker-based infrastructure.
-
----
-
 ## 🔬 Thesis
 
 ### Traffic Sign Recognition in Adverse Conditions
